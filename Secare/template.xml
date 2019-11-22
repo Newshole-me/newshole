@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Report">
+		<name>Secare</name>
+		<file>Secare.sla</file>
+		<tnail>Secaretn.png</tnail>
+		<img>Secare.png</img>
+		<psize>A4, portrait</psize>
+		<color></color>
+		<descr>3 sample Styles for Sections or Chapters: Secare is ideal for medium to long sized reports or any project that requires a visual differentiation of its contents.</descr>
+		<usage>Norbert, Secare, 21/07/2018. URL: http://scribus-templates.net
+Copyleft: This is a free work, you can copy, distribute, and modify it under the terms of the Free Art License
+http://artlibre.org/licence/lal/en/</usage>
+		<scribus_version>1.4.8</scribus_version>
+		<date>2019-07-02</date>
+		<author>scribus-templates.net</author>
+		<email>info@scribus-templates.net</email>
+	</template>
+</templates>
